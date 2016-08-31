@@ -1,23 +1,30 @@
 int startX = 0;
 int startX();
- int startX =  startX + 9 ;
+int startY = 150;
 int	startY();
- startY = 150;
+int endX = 0;
 int	endX();
-endX = 0;
+int endY = 150;
 int	endY();
- endY = 150;
 void setup()
 {
   size(300,300);
-  strokeWeight(50);
-  background(0);
+ strokeWeight();
+   background(); 
 }
 void draw()
-{  stroke();
+{ background(0);
+ strokeWeight(0,0,0);
+ }
 
-   
-}
+while
+ {  endX<300;
+ 	int startX = 0 + 10;
+ 	int startY = 150 + 10;
+ 	int endX =0 + 7;
+ 	int endY = 150 + 10;
+}  
+
 void mousePressed()
 {
   
